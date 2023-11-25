@@ -8,7 +8,7 @@ void table(int a){
 int main()
 {
     int n;
-   printf("Enter a number between 1 to 100:");
+   printf("Enter a number to print table:");
    scanf("%d",&n);
    table(n);
 
